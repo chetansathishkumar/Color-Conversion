@@ -1,10 +1,15 @@
-# Color Conversion
-## AIM
+## EX.NO: 03 <br>
+## DATE: 12-04-2022
+## <p align="center">COLOR CONVERSION</p>
 
+## Aim:
+<br>
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
 ## Software Required:
+
 Anaconda - Python 3.7
+
 ## Algorithm:
 
 ### Step1:
@@ -31,10 +36,10 @@ Output the image using cv2.imshow("OUTPUT", image)
 
 ## Program:
 
-### Developed By: Pabbarthi Chetan Sathish kumar
+### Developed By: P S Chetan
 ### Register Number: 212220230033
 
-## i) Convert BGR and RGB to HSV and GRAY
+### i) Convert BGR and RGB to HSV and GRAY
 
 ```python
 
@@ -56,7 +61,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## ii)Convert HSV to RGB and BGR
+### ii)Convert HSV to RGB and BGR
 
 ```python
 
@@ -76,7 +81,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## iii)Convert RGB and BGR to YCrCb
+### iii)Convert RGB and BGR to YCrCb
 
 ```python 
 
@@ -97,7 +102,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## iv)Split and Merge RGB Image
+### iv)Split and Merge RGB Image
 ```python 
 
 # (iv) Split and Merge RGB Image
@@ -117,7 +122,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## v) Split and merge HSV Image
+### v) Split and merge HSV Image
 
 ```python 
 
