@@ -80,6 +80,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+<br>
+<br>
+<br>
+
 
 ### iii)Convert RGB and BGR to YCrCb
 
@@ -153,6 +157,8 @@ cv2.destroyAllWindows()
 
 
 <br>
+<br>
+<br>
 
 ### ii) HSV to RGB and BGR
 <br>
@@ -161,6 +167,22 @@ cv2.destroyAllWindows()
 
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### iii) RGB and BGR to YCrCb
 <br>
@@ -168,6 +190,23 @@ cv2.destroyAllWindows()
 ![image](https://user-images.githubusercontent.com/74660507/162557490-88360244-5f17-4e2b-a739-c76e844bce9e.png)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### iv) Split and merge RGB Image
@@ -178,6 +217,23 @@ cv2.destroyAllWindows()
 
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### v) Split and merge HSV Image
 <br>
